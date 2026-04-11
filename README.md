@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Thomas Sepanosian 👋</h1>
   
-  <p>    Specializing in Enterprise Architecture, working at <a href="https://www.ssw.com.au/">SSW</a> in Sydney, Australia.<br>
+  <p>    Specializing in Enterprise Architecture<br>
   </p>
   <div align="center">    <a href="https://sepanosian.com" target="_blank">
       <img src="https://img.shields.io/badge/sepanosian.com-2ea44f?style=for-the-badge&logo=rss&logoColor=white" alt="Website" />
